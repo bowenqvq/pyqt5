@@ -1,0 +1,12 @@
+QPushButton#lab1[lv1="normal"]{
+    color:green;
+
+
+}
+
+QPushButton{
+    background-color: gray;
+    border: 1px solid gray;
+    border-radius:3px;
+    font-size:60px;
+}
